@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 export default function Hero() {
   return (
@@ -12,7 +12,7 @@ export default function Hero() {
         </h1>
         <h2 className="px-8 text-base md:px-0 md:text-lg my-6 tracking-wide">
           Kami menyediakan furniture berkelas yang
-          <br className="hidden lg:block" />membuat ruangan terasa homey
+          <br className="hidden lg:block" />membuat ruangan terasa homeyy
         </h2>
         <div>
           <a
@@ -28,8 +28,8 @@ export default function Hero() {
           <div className="overlay right-0 bottom-0 md:inset-0">
             <button
               className="video hero-cta focus:outline-none z-30 modal-trigger"
-              data-content='<div className="w-screen pb-56 md:w-88 md:pb-56 relative z-50">
-              <div className="absolute w-full h-full">
+              data-content='<div class="w-screen pb-56 md:w-88 md:pb-56 relative z-50">
+              <div class="absolute w-full h-full">
                 <iframe
                   width="100%"
                   height="100%"
